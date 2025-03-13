@@ -1,4 +1,4 @@
-# Javascript SCP Foundation Website
+# SCP Foundation Javascript
 An intermediate-pro redesign of the SCP Foundation website. The website was developed utilizing, Netlify, React, RestDB, Javascript, Cascading Stylesheet and Git.
 
 
